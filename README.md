@@ -1,3 +1,1 @@
-.env 
-password:Admin@121972
-banking_api: 289weusajhdvnvnvcxznbjkhaksdha879793q7w9yegdsajhhj
+
