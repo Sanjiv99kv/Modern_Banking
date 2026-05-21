@@ -1,15 +1,5 @@
 # Modern Banking
 
-## Project Name
-
-**Modern Banking**
-
-## Description
-
-A modern, responsive fintech landing page that presents next-generation payment and banking services. Built with React and Vite, it highlights secure transactions, rewards, balance transfers, billing tools, and card recommendations through a polished dark UI with gradient accents—ideal for portfolios, demos, and learning front-end development.
-
----
-
 A responsive fintech landing page built with React and Vite. The site showcases modern banking features—rewards, secure transactions, balance transfers, billing, and card deals—in a dark, gradient-driven UI.
 
 ## Features
